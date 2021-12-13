@@ -1,3 +1,8 @@
 .navWhite{
     color:white;
+    text-align: center;
+
+}
+.navWhite:link{
+    text-decoration: none;
 }
