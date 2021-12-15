@@ -22,5 +22,14 @@
 .leftSide{
     line-height: 10px;
 }
+.programsTitles{
+    color:white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+.programTableItem{
+    padding:30px;
+}
 
 
