@@ -6,3 +6,11 @@
 .navWhite:link{
     text-decoration: none;
 }
+.homepagebody{
+    background: url("Images/MissionsInMotionBackgroundImage.png")no-repeat top center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-size: 82%;
+}
+
