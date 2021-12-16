@@ -13,6 +13,13 @@
     width: 100%;
     background-size: 82%;
 }
+.disasterpagebody{
+    background: url("Images/disaster.png")no-repeat top center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-size: 82%;
+}
 .homePageOpportunities{
     max-width: 33%;
     padding-left:50px;
